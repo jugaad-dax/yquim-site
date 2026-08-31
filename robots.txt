@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yquim.com/sitemap.xml
+# LLM-readable salon summary: https://yquim.com/llms.txt

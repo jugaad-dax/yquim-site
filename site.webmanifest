@@ -1,0 +1,11 @@
+{
+  "name": "YQUIM | Hair Atelier",
+  "short_name": "YQUIM",
+  "lang": "ja",
+  "display": "browser",
+  "background_color": "#21120C",
+  "theme_color": "#21120C",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
